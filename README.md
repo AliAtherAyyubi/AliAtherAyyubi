@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Ali Ather 
 
 <!-- HeadLine !-->
-<img src="https://readme-typing-svg.herokuapp.com?font=Algerians&color=FF3A61&width=500&lines=I+am+a+Web+Developer+and+Flutter+Developer....">
+<h2>I am a Web & App Developer</h2>
     
 > Dare to be different, and you'll make a difference - **Ali Ather** 💕
 
