@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Ali Ather 
 
 <!-- HeadLine !-->
-<h2>I am a AI-Web Developer</h2>
+<h2>I am an AI-Web Developer</h2>
     
 > Dare to be different, and you'll make a difference - **Ali Ather** 💕
 
